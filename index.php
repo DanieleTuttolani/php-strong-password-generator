@@ -51,6 +51,7 @@ if(isset($_GET['number'])){
                         ?>
                     </p>
                 <?php endif; ?>
+                
             </div>
                 <?php 
                     var_dump($numero)

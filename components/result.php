@@ -26,6 +26,9 @@
                 </h3>
             </div>
         </div>
+        <div class="text-center">
+            <a href="http://localhost/php-strong-password-generator/index.php" class="btn btn-primary">Vai indietro</a>
+        </div>
     </div>
 </body>
 </html>
