@@ -1,9 +1,6 @@
 <?php
-// $seed = str_split('abcdefghijklmnopqrstuvwxyz'.'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.'0123456789!@#$%^&*()');
-// shuffle($seed);
-// $rand = '';
-// foreach (array_rand($seed, 10) as $i) $rand .= $seed[$i];
-// echo $rand
+
+
 
 if(isset($_GET['number'])){
     $numero = $_GET['number'];
